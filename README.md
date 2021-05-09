@@ -4,7 +4,7 @@
 
 
 # Hi 👋
-I'm Kübra! I improve myself on projects related to web.
+I'm Enes! I improve myself on projects related to web.
 
 Contact me via these platforms! 
 
