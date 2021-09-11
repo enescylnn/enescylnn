@@ -5,6 +5,7 @@
 
 # Hi 👋
 I'm Enes! I improve myself on projects related to web.
+![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://user-images.githubusercontent.com/70946655/132948330-097113c0-1ebf-4104-9331-1564164a9872.gif)
 
 Contact me via these platforms! 
 
