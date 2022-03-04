@@ -41,6 +41,8 @@ Contact me via these platforms!
 
 </p>
 
+![snake svg](https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg)
+
 
 
 Here are some ideas to get you started:
