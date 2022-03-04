@@ -41,7 +41,7 @@ Contact me via these platforms!
 
 </p>
 
-![snake svg](https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/enescylnn/enescylnn/blob/output/github-contribution-grid-snake.svg)
 
 
 
