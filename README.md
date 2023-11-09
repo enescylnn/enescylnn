@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/enescylnn?style=social)](https://github.com/enescylnn?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/enescylnn?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=enescylnn.visitor-badge.issue.1)
+[![Github visitors](![](https://komarev.com/ghpvc/?username=enescylnn))
 
 
 # Hi 👋
