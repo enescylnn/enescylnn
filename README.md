@@ -1,7 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/enescylnn?style=social)](https://github.com/enescylnn?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/enescylnn?style=social)
-[![Github visitors](![](https://komarev.com/ghpvc/?username=enescylnn))
-![](https://komarev.com/ghpvc/?username=enescylnn)
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 
